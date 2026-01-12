@@ -17,9 +17,8 @@ Tableau – Dashboard visualizations
 
 The analysis is based on two banking-related databases:
 
-Banking Analytics Database
-
-Credit & Debit Transactions Database
+1. Banking Analytics Database
+2. Credit & Debit Transactions Database
 
 Each dataset contains structured transaction and customer-level banking information used to derive key financial metrics.
 
