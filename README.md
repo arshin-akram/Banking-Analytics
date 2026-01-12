@@ -37,7 +37,7 @@ Credit & Debit Analytics Dashboard:
 2. Transaction patterns vary significantly across branches, reflecting operational and customer behavior differences.
 3. Debit Card transactions show high frequency, highlighting strong customer reliance on digital payment methods.
 
-## Overall Insights
+## 💡 Overall Insights
 
 1. Fraud Monitoring: High-value debit transactions (₹4,500 and above) can be treated as potential fraud indicators and flagged for closer monitoring.
 2. Customer Segmentation: Working-age customers drive higher loan demand, while older customers tend to maintain stronger account balances.
